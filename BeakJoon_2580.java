@@ -1,5 +1,3 @@
-package Main.copy;
-
 
 import java.util.*;
 import java.io.*;

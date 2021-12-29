@@ -1,3 +1,7 @@
+/*
+< 중복 순열 >
+서로 다른 n 개의 원소에서 m 개를 중복 하여 순서에 상관있게 뽑는 문제이다.
+*/
 
 import java.util.*;
 import java.io.*;

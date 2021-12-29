@@ -1,4 +1,3 @@
-package Main.copy;
 
 import java.util.*;
 

@@ -1,4 +1,7 @@
-package Main.copy;
+/*
+< 중복 조합 문제 >
+서로다른 n개의 원소에서 m개를 중복 하여 순서에 상관없이 뽑는다.
+*/
 
 import java.io.*;
 import java.util.*;

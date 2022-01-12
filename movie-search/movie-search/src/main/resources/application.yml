@@ -1,0 +1,18 @@
+naver:
+  url:
+    search:
+      movie: https://openapi.naver.com/v1/search/movie.json
+      image: https://openapi.naver.com/v1/search/image
+  client:
+    id: BWz7PpyO4kBiV6BaIIEz
+    secret: DH_UT5ECcu
+
+spring:
+  h2:
+    console:
+      enabled: true
+
+  jpa:
+    defer-datasource-initialization: true
+    show-sql: true
+
